@@ -1,0 +1,55 @@
+html, body { margin: 20px;
+
+}
+.header {
+background-color: green;
+color: whitesmoke;
+margin-top: 0px;
+margin-bottom: 50px;
+font-size: 60px;
+text-align: center;
+padding: 50px;
+}
+
+.header h2 {
+    color: black;
+    font-size: 60px;
+    font-family: 'Spartan', sans-serif;
+    padding-left: 50px;
+    margin-left: 20pcs;
+}
+
+.header h3 {
+ color: black;
+ font-family: sans-serif;
+ font-size: 60px;
+
+}
+.test {
+    align-self: center;
+    margin: 10px;
+    text-align: center;
+    background-color: green;
+    font-size: 20px;
+    border-radius: 15px;
+    color: ghostwhite;
+    padding: 20px;
+}
+
+.test2 {
+
+    text-align: center;
+}    
+
+.lastclass {
+    background-color:gainsboro;
+    padding: 50px;
+    
+    font-family: sans-serif;
+    padding: 50;
+    
+
+}
+
+.class 5 {max-width: 1pc;}
+
