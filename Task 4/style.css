@@ -1,0 +1,72 @@
+html, body {
+    background-color: rgb(70, 51, 63);
+    margin: 0;
+    
+}
+
+.title {
+    font-family: Lobster, cursive;
+    color: rgb(235, 231, 226);
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+
+.container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-band {
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+.grid {
+    background-color: aliceblue;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 800px;
+    height: 200px;
+
+}
+
+.text2 {
+color: rgb(97, 77, 107);
+font-size: 30px;
+text-align: left;
+padding-top: 20px;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+
+.h2{
+ color: rgb(97, 77, 107);
+font-size: 15px;
+text-align: left;
+padding-top: 10px;
+padding-bottom: 10px;
+font-style: bold;
+padding: 10px;
+
+}
+
+.div2 {
+
+    color: rgb(97, 77, 107);
+    font-size: 30px;
+     padding-left: 10px;
+    
+    
+}
+.grid2 {
+    background-color: aliceblue;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 700px;
+    height: 100px;
+}
