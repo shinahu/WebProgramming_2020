@@ -1,0 +1,178 @@
+html, body {
+    background-color: rgb(16, 13, 34);
+    margin: 0;
+}
+
+.logobox{
+margin-top: 20pc;
+margin-right: 35%;
+margin-left: 35%;
+
+
+
+}
+
+.box1{
+    
+    background-color: rgb(39, 39, 112);
+    width: 46.5%;
+    float: left;
+    padding: 10px; 
+    color: aliceblue;
+    
+    
+}
+
+.box2{
+
+    
+    background-color: rgb(99, 188, 223);
+    width: 46.5%;
+    float: right;
+    padding: 10px;
+    color: aliceblue;
+    
+    
+}
+
+.signup1{
+
+    padding-top: 20px;
+}
+
+.signup {
+color: aliceblue;
+font-size: 15px;
+font-family: 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+padding: 20px;
+
+
+
+
+}
+
+.sptwit {
+color: aliceblue;
+
+}
+
+
+.namebox {
+
+    margin-top: 2pc;
+    margin: 0px;
+
+
+}
+
+.fname {
+
+    width: 49%;
+    float: left;
+    padding: 0px;
+    
+    
+    
+
+}
+
+.lname {
+ width: 49%;
+    float: right;
+    padding: 0px;
+        
+
+}
+
+.emailbox {
+
+margin-top: 2pc;
+padding-top: 40px;
+
+}
+
+.password {
+
+    
+    padding-top: 25px;
+
+}
+
+.h2 {
+
+font-size: 15px;
+color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 15px;
+
+
+}
+
+.h3{
+
+    font-size: 15px;
+    color: rgb(39, 83, 121);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+  
+}
+
+.ACdiv{
+
+    padding-top: 10px;
+}
+
+.createAC {
+background-color: rgb(39, 163, 55);
+color: aliceblue;
+font-size: 15px;
+text-align: center;
+width: 580px;
+height: 30px;
+padding-top: 10px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+
+}
+
+.h4 {
+
+    font-size: 15px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+    text-align: center;
+}
+
+
+
+.fab{
+    
+    font-size: 20px;
+    color: azure;
+    font-family: 'Inter';
+    padding-left: 10px;
+    padding-right: 5px;
+    width: 20%;
+    float: left;
+    
+}
+
+.fab1 {
+    font-size: 20px;
+    color: azure;
+    font-family: 'Inter';
+    padding-left: 10px;
+    padding-right: 20px;
+    width: 80%;
+    float: right;
+    
+
+
+
+
+}
